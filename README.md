@@ -13,11 +13,11 @@
   <image align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="" width="90px">
   <image align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/2560px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" alt="" width="90px">
   <image align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1200px-Android_logo_2019_%28stacked%29.svg.png" alt="" width="90px">
-  <image align="left" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="" width="90px">
-  <image align="left" src="https://www.comparasoftware.com/wp-content/uploads/2018/08/logoPostgreSQL.png" alt="" width="90px">
-  <image align="left" src="https://ipappg.edu.pe/blog/wp-content/uploads/2022/05/mssqlserver.png" alt="" width="90px">
-  <image align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="" width="90px">
-  <image align="left" src="https://nodd3r.com/media/blog/Portadas_blog_21.png" alt="" width="90px">
+  <image align="right" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="" width="90px">
+  <image align="right" src="https://www.comparasoftware.com/wp-content/uploads/2018/08/logoPostgreSQL.png" alt="" width="90px">
+  <image align="right" src="https://ipappg.edu.pe/blog/wp-content/uploads/2022/05/mssqlserver.png" alt="" width="90px">
+  <image align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="" width="90px">
+  <image align="right" src="https://nodd3r.com/media/blog/Portadas_blog_21.png" alt="" width="90px">
     
 <br>
 <br>
